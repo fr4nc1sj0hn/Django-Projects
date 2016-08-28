@@ -1,0 +1,499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ques",
+				"QuestionAdmin"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"future",
+				"future_question"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"que",
+				"Question"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"selec",
+				"selected_choice"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"c",
+				"choice_text"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"ti",
+				"timedelta"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"q",
+				"question_text"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"M",
+				"MyFirstApp"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"L",
+				"LEFT"
+			],
+			[
+				"le",
+				"left1"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"s",
+				"set"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"k",
+				"keyF"
+			],
+			[
+				"f",
+				"fill"
+			],
+			[
+				"B",
+				"BOTH"
+			],
+			[
+				"lOAD",
+				"LoadTimestamp"
+			],
+			[
+				"cOUN",
+				"CountryCode"
+			],
+			[
+				"aNN",
+				"AnnualPremiumLocal"
+			],
+			[
+				"pLA",
+				"PlanRate"
+			],
+			[
+				"PO",
+				"PolicyNumber"
+			],
+			[
+				"aN",
+				"AnnualPremium"
+			],
+			[
+				"pOL",
+				"policy_number"
+			],
+			[
+				"CRE",
+				"createschema"
+			],
+			[
+				"CR",
+				"createschema"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/setup.py",
+			"settings":
+			{
+				"buffer_size": 1225,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"python",
+			"django --version",
+			"python -m django --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/mysite/__pycache__",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/static/polls",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/static/polls/images",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/static/images",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/templates/admin",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/docs",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/polls"
+	],
+	"file_history":
+	[
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/MANIFEST.in",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/urls.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/polls/admin.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/forms.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/templates/admin/index.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/admin.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/polls/detail.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/mysite/settings.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/README.rst",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/LICENSE",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/templates/admin/base_site.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/polls/index.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/views.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/static/style.css",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/static/polls/style.css",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/models.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/polls/test.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/admin.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/tests.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/polls/templates/polls/results.html",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/mysite/mysite/urls.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/firstapp/firstapp/settings.py",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/firstapp/app1/models.py",
+		"/D/Users/picasfr/Documents/Scripts/Role Creation.sql",
+		"//10.128.138.107/e$/Scripts/Database Login/10.128.90.25_User_ANALYTICS.sql",
+		"/D/Users/picasfr/Documents/Hadoop/03 Pig/03 Pig/01_Lab_A_Getting_Started_with_Apache_Pig.docx",
+		"/D/Users/picasfr/Desktop/Python/Django/MyFirstTime/MyFirstTime/settings.py",
+		"/D/Users/picasfr/Desktop/Python/Django/MyFirstTime/MyFirstTime/urls.py",
+		"/D/Users/picasfr/Desktop/Python/Django/MyFirstTime/MyFirstApp/urls.py",
+		"/D/Users/picasfr/Desktop/Python/Django/MyFirstTime/MyFirstApp/views.py",
+		"/D/Users/picasfr/Desktop/Python/MyLearning/Tkinter_Calc_pmw.py",
+		"/D/Users/picasfr/Desktop/Python/MyLearning/Tkinter_Calc_01.py",
+		"/D/Users/picasfr/Desktop/Python/MyLearning/Tkinter_01.py",
+		"/D/Users/picasfr/AppData/Local/Temp/notes77FF43/Drag10061AF3/nopass_user.sql",
+		"//10.128.138.107/e$/Scripts/Database Login/10.128.90.25_User.sql",
+		"/D/Users/picasfr/Desktop/aristotle-metadata-registry-v.1.3.1/aristotle-metadata-registry-v.1.3.1/docs/user_help/index.rst",
+		"//10.128.138.105/e$/Scripts/Database Login/10.128.90.25_User.sql",
+		"/D/Users/picasfr/Desktop/Python/MyLearning/MyLearning/JPNFixFile.py",
+		"//10.128.138.105/e$/Scripts/Database Login/10.128.90.25_Role_Owner.sql",
+		"/D/Users/picasfr/Documents/Sublime Projects/IDN COO/usp_idn_ProcesAsync_SourceToRaw.sql",
+		"/D/Users/picasfr/Downloads/part-m-00003",
+		"/D/Users/picasfr/Desktop/Fpor Implem.sql",
+		"/D/Users/picasfr/pip/pip.ini",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Lib/Django-1.8.14/setup.py",
+		"/D/Users/picasfr/Desktop/aristotle-metadata-registry-v.1.3.1/aristotle-metadata-registry-v.1.3.1/docs/installing/easy_install.rst",
+		"/M/index.html",
+		"/D/Users/picasfr/Documents/Scripts/IDN Metrics.sql",
+		"/D/Users/picasfr/Documents/Scripts/IDN Routines.sql",
+		"/D/Users/picasfr/Documents/Scripts/IDN DDL.sql",
+		"/D/Users/picasfr/Documents/IDN/Metrics.sql",
+		"/D/Users/picasfr/Documents/Migration/Audit Scripts.sql",
+		"/D/Users/picasfr/Documents/Migration/JPN/SP new.sql",
+		"/D/Users/picasfr/Documents/Personal/index.sql",
+		"//10.128.138.107/e$/FTP Files/Japan/COO/S_ING_PRODUCT_NAME.csv",
+		"/D/Users/picasfr/Documents/Migration/HKG DDL/Tables1/HKG_ERROR_VREG_AGENT_COO.sql",
+		"/D/Users/picasfr/Documents/Migration/JPN/Tactical JPN SP(until insert to pre raw)/Tactical JPN SP(until insert to pre raw)/3_JPN_usp_insert_to_pre_raw_table.sql",
+		"/D/Users/picasfr/Documents/Migration/HKG DDL/Tables/HKG_ERROR_VREG_AGENT_COO.sql",
+		"/D/Users/picasfr/Documents/Scripts/Global Scripts part 2.sql",
+		"/D/Users/picasfr/Documents/Scripts/Global DDL part 2.sql",
+		"/D/Users/picasfr/Documents/ETL/IDN/usp_idn_fct_claims_submission.sql",
+		"/D/Users/picasfr/Desktop/Python/App.py",
+		"/D/Users/picasfr/Documents/Scripts/Test1.sql",
+		"/D/Users/picasfr/Documents/Scripts/Test",
+		"//10.128.138.105/e$/FTP Scripts/vn_ftp_files.bat",
+		"//10.128.138.105/e$/FTP Scripts/vn_coo_ftp_files.bat",
+		"/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/pip/_vendor/requests/cacert.pem",
+		"/D/Users/picasfr/Downloads/sqlcmd-0.7.1/sqlcmd-0.7.1/doc/users_guide.rst",
+		"/D/Users/picasfr/Documents/IDN/fct_claims_submission_final.sql",
+		"/D/Users/picasfr/Documents/IDN/fct_policy_service.sql",
+		"/D/Users/picasfr/Documents/IDN/spProcessDimPolicyOwner.sql",
+		"/D/Users/picasfr/Documents/IDN/fct_new_business_idn_PROD.sql",
+		"/D/Users/picasfr/Documents/Scripts/Global Scripts.sql",
+		"/D/Users/picasfr/AppData/Local/Programs/X88 Software/Pandora 4.0.16/Pandora Solo 64bit.exe"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_User_RW",
+			"pi_clm_ind",
+			"cii.",
+			"transaction",
+			"multiple",
+			"strExpenseCategoryCode",
+			"ExpenseType",
+			"insert_to_batch",
+			"RDO_STAGING_DEV.glo.usp_insert_to_error_detail",
+			"RDO_STAGING_DEV.glo.usp_insert_to_error_event",
+			"BATCH_PROCESS",
+			"RDO_STAGING_DEV.glo.usp_insert_to_audit_table",
+			"CREATE PROCEDURE",
+			"insert_to_audit_table",
+			"RDO_Staging-Dev",
+			"RDO.dbo.",
+			"RDO_Staging.dbo.",
+			"[dbo].[sp_",
+			"RDO_Staging.glo.",
+			"RDO_Staging.dbo.",
+			"[dbo]",
+			"owner",
+			"age",
+			"RDO_DW_DEV.dbo.udf_getCodeDescription",
+			"usp_Global_",
+			"RDO_DW_DEV.dbo.usp_Global_Audit_AsyncProcessStatusLog",
+			"RDO.",
+			"RDO_Staging.dbo.",
+			"[RDO_Staging].dbo.",
+			"RDO_Staging.dbo.",
+			"RDO.",
+			"[dbo].[usp_idn",
+			"[nvarchar](1000)",
+			"nvarchar",
+			"[RDO]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_UAT_User_RW",
+			"UAT_User_RW",
+			"ExpenseSubCategory",
+			"RDO_STAGING_DEV.glo.usp_Insert_ToErrorDetail",
+			"RDO_STAGING_DEV.glo.usp_Insert_ToErrorEvent",
+			"RDO_STAGING_DEV.glo.usp_Insert_ToAuditTable",
+			"ALTER PROCEDURE",
+			"RDO_Staging_Dev",
+			"RDO_Staging_Dev.glo.",
+			"RDO_Staging-Dev.glo.",
+			"[glo].[usp_",
+			"RDO_STAGING_DEV.glo.",
+			"RDO_Staging.glo.",
+			"[glo]",
+			"RDO_STAGING_DEV.glo.udf_getCodeDescription",
+			"usp_",
+			"RDO_STAGING_DEV.glo.usp_Global_Audit_AsyncProcessStatusLog",
+			"RDO_DW_DEV.",
+			"RDO_STAGING_DEV.idn.",
+			"RDO_DW_DEV.",
+			"[idn].[usp",
+			"[nvarchar](100)",
+			"[RDO_DW_DEV]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Users/picasfr/AppData/Local/Programs/Python/Python35-32/Scripts/WebApps/django-polls/setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "proj_mysite.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

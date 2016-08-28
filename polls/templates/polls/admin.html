@@ -1,0 +1,5 @@
+<form action="{% url 'polls:get_name' %}" method="post">
+    {% csrf_token %}
+    <input id="id_admin_name" maxlength="100" name="admin_name" type="text" required="">
+    <input type="submit" value="Submit" />
+</form>
